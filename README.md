@@ -1,4 +1,4 @@
-# AirBnb Backend Clone
+# AirBnb Backend Application
 A robust backend implementation of an AirBnb platform built with Java and Spring Boot, Spring Data JPA, Spring Security. This project focuses on managing property listings, user bookings, and secure payment processing using Stripe Payment Gateway.
 
 ## 🚀 Features
